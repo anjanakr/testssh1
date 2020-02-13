@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="commit" language="en" table="sn_testssh1_commit">
+    <sys_documentation element="" label="ku" language="en" table="sn_testssh1_ku">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>commit</label>
+            <label>ku</label>
             <language>en</language>
-            <name>sn_testssh1_commit</name>
-            <plural>commits</plural>
+            <name>sn_testssh1_ku</name>
+            <plural>kus</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>anirudh.krishnan@snc</sys_created_by>
-            <sys_created_on>2019-09-23 15:00:22</sys_created_on>
-            <sys_id>e8e959cc1b4f0010580064a6bc4bcb58</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-13 20:42:01</sys_created_on>
+            <sys_id>b47a55001b8f0010580064a6bc4bcbdc</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>commit</sys_name>
+            <sys_name>ku</sys_name>
             <sys_package display_value="testssh1" source="sn_testssh1">85bfafb9db8400105dc970f5bf9619d6</sys_package>
             <sys_policy/>
             <sys_scope display_value="testssh1">85bfafb9db8400105dc970f5bf9619d6</sys_scope>
-            <sys_update_name>sys_documentation_sn_testssh1_commit__en</sys_update_name>
-            <sys_updated_by>anirudh.krishnan@snc</sys_updated_by>
-            <sys_updated_on>2019-09-23 15:00:22</sys_updated_on>
+            <sys_update_name>sys_documentation_sn_testssh1_ku__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-13 20:42:01</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
